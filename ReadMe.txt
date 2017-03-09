@@ -1,0 +1,1 @@
+NaiveBayes.py is used to make an email classifer based on NaiveBayes method
