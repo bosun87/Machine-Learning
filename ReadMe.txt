@@ -1,4 +1,3 @@
-NaiveBayes.py is used to make an email classifer based on NaiveBayes method
 
 SVM_binary class.py is used to make binary class classification on "Advertisement" benchmark from UCI machine learning repository
 
